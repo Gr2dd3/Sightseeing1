@@ -99,7 +99,7 @@ function targetPositions() {
 
     if (count < 1) {
         count++;
-        fetch('../data/mappoints.json')
+        fetch("./data/mappoints.json")
             .then(function (response) { return response.json(); })
             .then(function (data) {
                 console.log("data från json-fil", data);

@@ -1,5 +1,5 @@
-@media (max-width: 860px) {
-    header {
+@media (max-width: 600px) {
+    .headerdiv {
         height: 85px;
         width: 100vw;
         background-image: url(../images/cityimg.jpg);
@@ -12,26 +12,22 @@
         z-index: 100;
     }
 
-    .headerdiv h1 {
-        display: inline-block;
+    #header {
+        display: flex;
         text-decoration: none;
         color: solid black;
         background-color: rgba(161, 244, 161, 0.5);
         box-sizing: border-box;
+        width: 80vw;
+        font-size: x-large;
+        margin-top: 45px;
     }
 
-    h1 {
-        display: inline;
-        margin-left: 2vw;
-        color: black;
-        z-index: 101;
-    }
 
     #drawapp {
         display: flex;
         flex-direction: column;
         margin-top: 140px;
-        margin-left: 20px;
     }
 
     body {
@@ -41,25 +37,23 @@
         background-size: cover;
         background-attachment: fixed;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
     }
 
     #places {
         display: flex;
         flex-direction: column;
-        padding: 10px;
-        margin-left: 10px;
-        margin-top: 2em;
+        margin-top: 1.5em;
+        margin-left: 5px;
 
     }
 
     #status {
-        margin-left: 20px;
+        margin-left: 5px;
     }
 
     #map {
-        margin-left: 20px;
         margin-bottom: 1em;
+        margin-left: 5px;
         width: 300px;
         height: 250px;
     }
@@ -70,7 +64,7 @@
         display: flex;
         flex-direction: column;
         margin-bottom: 5px;
-        width: fit-content;
+        width: 85vw;
         height: auto;
         background-color: rgba(161, 244, 161, 0.7);
         padding: 10px;
@@ -78,12 +72,12 @@
     }
 
     #points {
-        margin-left: 20px;
         background-color: rgba(230, 133, 6, 0.615);
         width: fit-content;
         height: auto;
         padding: 10px;
         border-radius: 7px;
+        margin-left: 5px;
     }
 
     #buttons {
@@ -91,7 +85,8 @@
         flex-direction: column;
         width: 40vw;
         margin-top: 3em;
-        margin-left: 20px;
+        margin-left:5px;
+        color: solid black;
     }
 
     .gotobutton {
@@ -104,30 +99,32 @@
     }
 
     .placeimg {
-        width: 450px;
-        height: 300px;
+        width: 350px;
+        height: 250px;
+        margin-left: 5px;
     }
 
     .placetitle {
         width: 100%;
         margin-top: 5vh;
-        margin-left: 7vw;
+        margin-left: 8px;
     }
 
     .infotext {
-        margin-left: 7vw;
-        margin-right: 33vw;
+        margin-left: 5px;
+        margin-right: 30px;
         display: flex;
-        width: 60vw;
         height: fit-content;
     }
 
     .backbutton {
         margin-top: 25px;
-        margin-left: 20vw;
-        margin-bottom: 300px;
+        margin-left: 10vw;
+        margin-bottom: 10vh;
         padding: 10px;
         width: 200px;
+        color: solid black;
+        border-radius: 10px;
     }
 }
 
@@ -135,8 +132,8 @@
 
 
 
-@media(min-width: 861px) {
-    header {
+@media(min-width: 601px) {
+    .headerdiv {
         height: 85px;
         width: 100vw;
         background-image: url(../images/cityimg.jpg);
@@ -149,19 +146,17 @@
         z-index: 100;
     }
 
-    .headerdiv h1 {
-        display: inline-block;
+    #header {
+        display: flex;
         text-decoration: none;
         color: solid black;
         background-color: rgba(161, 244, 161, 0.5);
         box-sizing: border-box;
-    }
-
-    h1 {
-        display: inline;
-        margin-left: 25vw;
-        color: black;
-        z-index: 101;
+        width: 80vw;
+        font-size: xx-large;
+        margin-top: 45px;
+        margin-left: 20px;
+        width: fit-content;
     }
 
     body {
@@ -213,6 +208,7 @@
         padding: 10px;
         border-radius: 10px;
         margin-bottom: 10px;
+        margin-left: 5px;
     }
 
     #points {
@@ -243,8 +239,7 @@
         padding: 10px;
         height: 50px;
         border-radius: 10px;
-        justify-content: space-between;
-
+        margin-right: 5px;
     }
 
 

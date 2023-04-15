@@ -1,7 +1,56 @@
-[{"id":0,"visited":"", "title":"NyköpingsHus","lat":58.748525,"long":17.011672, "image":"images/nykopingshus.jpg", "info":"Nyköpingshus är centrum för Nyköpings historia och är ursprungligen en medeltida borg som byggdes på i omgångar. På slottet som man säger i Nyköping, har kungar bott genom tiderna, exempelvis Karl IX, som byggde upp Nyköpingshus till ett vackert renässansslott under 1500-talet. Det som du ser idag är främst det via Kungstornet och de vackra murarna som berättar om det som har hänt där. Nyköpings gästabud år 1317 är bara ett exempel på en spännande händelse, då Magnus Ladulås tre söner gjorde upp om makten.. Nyköpingshus är grundat på 1100-talet. Nyköpings gästabud kallas de händelser som utspelades på Nyköpingshus i december 1317, då Sveriges kung Birger Magnusson fängslade sina bröder hertigarna Valdemar och Erik, vilka senare sattes att svälta ihjäl i fängelsetornet på Nyköpingshus. Den främsta källan till händelseförloppet är den högst partiska Erikskrönikan."},
-{"id":1,"visited":"", "title":"Sörmlands Museum","lat":58.746086,"long":17.013872, "image":"images/sormlandsmuseum.webp", "info":"Den 24 november 2018 invigdes de nya lokalerna för Sörmlands Museum i Nyköpings västra hamn. Det nya länsmuseet omfattar 13 000 kvadratmeter och innehåller samlingar med fler än 70 000 föremål, över en miljon fotografier, bibliotek, konsertsal, föreläsningssalar och verkstäder. Sörmlands museum är ett regionalt museum – ett länsmuseum - med verksamhet i hela Sörmland. Med historia, slöjd, bild och form vill vi vidga vyer, väcka engagemang och bidra till att människor påverkar samhället och sin livssituation. Museets verksamhet nådde drygt 251 000 besökare/deltagare 2012. Museets hade i utställningar, program och pedagogik över 122 000 besökare/deltagare. Till denna siffra ska läggas alla de som museet når genom utomhusutställningar av olika slag, som till exempel ”Historien i Sörmland”. På webben hade museet drygt 129 000 besökare."},
-{"id": 2, "visited":"", "title":"Nyköpings Hamn","lat": 58.746183, "long": 17.018066, "image": "images/nykopingshamn.jpg", "info":"Hamnen ligger i stadsfjärden, där Nyköpingsån mynnar ut i Östersjön och är ett populärt turistmål. Här finns flera bra restauranger, glasställen och lekplatser. Jättetrevligt promenadstråk, åk hit på vår och sommar."},
-{"id": 3, "visited":"", "title":"F11 Museum","lat": 58.787478, "long": 16.931484, "image": "images/f11museum.jpg", "info":"F11 Museum är ett flygmuseum som speglar flygvapnets utveckling under F 11-epoken, från 1941 till flottiljens nedläggning 1980. Museet, som invigdes den 15 oktober 1991, är Sveriges flygspaningsmuseum och speglar svensk flygspaning under perioden mellan andra världskriget och system 37. Vid museet visas den enda bevarade underrättelsepluton som var \"hjärnan\" i 37-systemet. I museet finns bland annat flygplanen S 29 Tunnan, S 32 Lansen, S 35 Draken och SH 37 framdel uppställda. I F11 Museum finns även möjlighet att flyga simulator, dels SF 37 dels Cessna 240. Museet är beläget vid Stockholm Skavsta flygplats utanför Nyköping och förvaltas av Nyköpings Flyghistoriska Förening (NFF). Under andra världskriget och kalla kriget gjordes ovärderliga insatser av F 11, främst genom övervakning av Östersjön. För att bevara denna unika epok i Flygvapnets historia tog kamratföreningen F11 Veteraner i slutet av 1980-talet initiativ till ett museum på platsen. 1991 invigdes F11 Museum som ett resultat av stora frivilliga insatser från kamratföreningen. Museibyggnaden, en mobiliseringsbarack från F11-tiden, hade då renoverats med hjälp av sponsorer och ställdes till förfogande av Skavsta Flygplats. 1995 byggdes museet ut och omfattar idag ca 150 m2 utställningsyta med mycket intressant material i form av foton och föremål."},
-{"id": 4, "visited":"", "title":"Hjortensbergsbadet","lat": 58.764241, "long": 17.025694, "image": "images/hjortenbergsbadet.png", "info":"Välkommen att bada och simma på Hjortensbergsbadet. Här hos oss finns ett flertal bassänger äventyrsbad och miniland för våra minsta besökare. På Hjortensbergsbadet finns en 25-meters bassäng, en undervisningsbassäng, en \"simma ut-bassäng\" och en varmbassäng med behagliga 34°C i vattnet. Vi har även ett äventyrsbad och ett miniland för våra yngsta besökare. Utöver det har vi bubbelpooler och en kallbassäng i relaxen. Barn under 12 år måste, oavsett simkunnighet, alltid ha sällskap av ombytt, simkunnig betalande vuxen."},
-{"id": 5, "visited":"", "title":"Bat Cave","lat": 58.769929, "long": 17.052982, "image": "images/batcave.jpg", "info":"All info om Batmans gömställe är sekretessbelagt! Vi tror att koordinaterna är påhittade."}
+[
+    {
+        "id": 0,
+        "visited": "",
+        "title": "NyköpingsHus",
+        "lat": 58.748525,
+        "long": 17.011672,
+        "image": "images/nykopingshus.jpg",
+        "info": "Nyköpingshus är centrum för Nyköpings historia och är ursprungligen en medeltida borg som byggdes på i omgångar. På slottet som man säger i Nyköping, har kungar bott genom tiderna, exempelvis Karl IX, som byggde upp Nyköpingshus till ett vackert renässansslott under 1500-talet. Det som du ser idag är främst det via Kungstornet och de vackra murarna som berättar om det som har hänt där. Nyköpings gästabud år 1317 är bara ett exempel på en spännande händelse, då Magnus Ladulås tre söner gjorde upp om makten.. Nyköpingshus är grundat på 1100-talet. Nyköpings gästabud kallas de händelser som utspelades på Nyköpingshus i december 1317, då Sveriges kung Birger Magnusson fängslade sina bröder hertigarna Valdemar och Erik, vilka senare sattes att svälta ihjäl i fängelsetornet på Nyköpingshus. Den främsta källan till händelseförloppet är den högst partiska Erikskrönikan."
+    },
+    {
+        "id": 1,
+        "visited": "",
+        "title": "Sörmlands Museum",
+        "lat": 58.746086,
+        "long": 17.013872,
+        "image": "images/sormlandsmuseum.webp",
+        "info": "Den 24 november 2018 invigdes de nya lokalerna för Sörmlands Museum i Nyköpings västra hamn. Det nya länsmuseet omfattar 13 000 kvadratmeter och innehåller samlingar med fler än 70 000 föremål, över en miljon fotografier, bibliotek, konsertsal, föreläsningssalar och verkstäder. Sörmlands museum är ett regionalt museum – ett länsmuseum - med verksamhet i hela Sörmland. Med historia, slöjd, bild och form vill vi vidga vyer, väcka engagemang och bidra till att människor påverkar samhället och sin livssituation. Museets verksamhet nådde drygt 251 000 besökare/deltagare 2012. Museets hade i utställningar, program och pedagogik över 122 000 besökare/deltagare. Till denna siffra ska läggas alla de som museet når genom utomhusutställningar av olika slag, som till exempel ”Historien i Sörmland”. På webben hade museet drygt 129 000 besökare."
+    },
+    {
+        "id": 2,
+        "visited": "",
+        "title": "Nyköpings Hamn",
+        "lat": 58.746183,
+        "long": 17.018066,
+        "image": "images/nykopingshamn.jpg",
+        "info": "Hamnen ligger i stadsfjärden, där Nyköpingsån mynnar ut i Östersjön och är ett populärt turistmål. Här finns flera bra restauranger, glasställen och lekplatser. Jättetrevligt promenadstråk, åk hit på vår och sommar."
+    },
+    {
+        "id": 3,
+        "visited": "",
+        "title": "F11 Museum",
+        "lat": 58.787478,
+        "long": 16.931484,
+        "image": "images/f11museum.jpg",
+        "info": "F11 Museum är ett flygmuseum som speglar flygvapnets utveckling under F 11-epoken, från 1941 till flottiljens nedläggning 1980. Museet, som invigdes den 15 oktober 1991, är Sveriges flygspaningsmuseum och speglar svensk flygspaning under perioden mellan andra världskriget och system 37. Vid museet visas den enda bevarade underrättelsepluton som var \"hjärnan\" i 37-systemet. I museet finns bland annat flygplanen S 29 Tunnan, S 32 Lansen, S 35 Draken och SH 37 framdel uppställda. I F11 Museum finns även möjlighet att flyga simulator, dels SF 37 dels Cessna 240. Museet är beläget vid Stockholm Skavsta flygplats utanför Nyköping och förvaltas av Nyköpings Flyghistoriska Förening (NFF). Under andra världskriget och kalla kriget gjordes ovärderliga insatser av F 11, främst genom övervakning av Östersjön. För att bevara denna unika epok i Flygvapnets historia tog kamratföreningen F11 Veteraner i slutet av 1980-talet initiativ till ett museum på platsen. 1991 invigdes F11 Museum som ett resultat av stora frivilliga insatser från kamratföreningen. Museibyggnaden, en mobiliseringsbarack från F11-tiden, hade då renoverats med hjälp av sponsorer och ställdes till förfogande av Skavsta Flygplats. 1995 byggdes museet ut och omfattar idag ca 150 m2 utställningsyta med mycket intressant material i form av foton och föremål."
+    },
+    {
+        "id": 4,
+        "visited": "",
+        "title": "Hjortensbergsbadet",
+        "lat": 58.764241,
+        "long": 17.025694,
+        "image": "images/hjortenbergsbadet.png",
+        "info": "Välkommen att bada och simma på Hjortensbergsbadet. Här hos oss finns ett flertal bassänger äventyrsbad och miniland för våra minsta besökare. På Hjortensbergsbadet finns en 25-meters bassäng, en undervisningsbassäng, en \"simma ut-bassäng\" och en varmbassäng med behagliga 34°C i vattnet. Vi har även ett äventyrsbad och ett miniland för våra yngsta besökare. Utöver det har vi bubbelpooler och en kallbassäng i relaxen. Barn under 12 år måste, oavsett simkunnighet, alltid ha sällskap av ombytt, simkunnig betalande vuxen."
+    },
+    {
+        "id": 5,
+        "visited": "",
+        "title": "Bat Cave",
+        "lat": 58.769929,
+        "long": 17.052982,
+        "image": "images/batcave.jpg",
+        "info": "All info om Batmans gömställe är sekretessbelagt! Vi tror att koordinaterna är påhittade."
+    }
 ]

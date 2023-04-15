@@ -28,7 +28,7 @@
         display: flex;
         flex-direction: column;
         margin-top: 140px;
-        margin-left: 15px;
+        margin-left: 4vw;
     }
 
     body {
@@ -172,7 +172,7 @@
 
     #status {
         width: 100%;
-        margin-left: 26vw;
+        margin-left: 15vw;
         font-size: xx-large;
     }
 
@@ -233,6 +233,7 @@
         height: 50px;
         border-radius: 10px;
         margin-right: 5px;
+        color: solid black;
     }
 
 
@@ -261,5 +262,6 @@
         padding: 10px;
         width: 200px;
         border-radius: 10px;
+        color: solid black;
     }
 }

@@ -1,0 +1,277 @@
+@media (max-width: 860px) {
+    header {
+        height: 85px;
+        width: 100vw;
+        background-image: url(../images/cityimg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 15px;
+        position: fixed;
+        top: 0px;
+        display: block;
+        z-index: 100;
+    }
+
+    .headerdiv h1 {
+        display: inline-block;
+        text-decoration: none;
+        color: solid black;
+        background-color: rgba(161, 244, 161, 0.5);
+        box-sizing: border-box;
+    }
+
+    h1 {
+        display: inline;
+        margin-left: 2vw;
+        color: black;
+        z-index: 101;
+    }
+
+    #drawapp {
+        display: flex;
+        flex-direction: column;
+        margin-top: 140px;
+        margin-left: 20px;
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
+
+    #places {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        margin-left: 10px;
+        margin-top: 2em;
+
+    }
+
+    #status {
+        margin-left: 20px;
+    }
+
+    #map {
+        margin-left: 20px;
+        margin-bottom: 1em;
+        width: 300px;
+        height: 250px;
+    }
+
+
+
+    .distancediv {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 5px;
+        width: fit-content;
+        height: auto;
+        background-color: rgba(161, 244, 161, 0.7);
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    #points {
+        margin-left: 20px;
+        background-color: rgba(230, 133, 6, 0.615);
+        width: fit-content;
+        height: auto;
+        padding: 10px;
+        border-radius: 7px;
+    }
+
+    #buttons {
+        display: flex;
+        flex-direction: column;
+        width: 40vw;
+        margin-top: 3em;
+        margin-left: 20px;
+    }
+
+    .gotobutton {
+        width: 200px;
+        margin-bottom: 10px;
+        padding: 10px;
+        height: 50px;
+        border-radius: 10px;
+
+    }
+
+    .placeimg {
+        width: 450px;
+        height: 300px;
+    }
+
+    .placetitle {
+        width: 100%;
+        margin-top: 5vh;
+        margin-left: 7vw;
+    }
+
+    .infotext {
+        margin-left: 7vw;
+        margin-right: 33vw;
+        display: flex;
+        width: 60vw;
+        height: fit-content;
+    }
+
+    .backbutton {
+        margin-top: 25px;
+        margin-left: 20vw;
+        margin-bottom: 300px;
+        padding: 10px;
+        width: 200px;
+    }
+}
+
+
+
+
+
+@media(min-width: 861px) {
+    header {
+        height: 85px;
+        width: 100vw;
+        background-image: url(../images/cityimg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 15px;
+        position: fixed;
+        top: 0px;
+        display: block;
+        z-index: 100;
+    }
+
+    .headerdiv h1 {
+        display: inline-block;
+        text-decoration: none;
+        color: solid black;
+        background-color: rgba(161, 244, 161, 0.5);
+        box-sizing: border-box;
+    }
+
+    h1 {
+        display: inline;
+        margin-left: 25vw;
+        color: black;
+        z-index: 101;
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
+
+    #drawapp {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 140px;
+        margin-left: 20px;
+    }
+
+    #status {
+        width: 100%;
+        margin-left: 26vw;
+        font-size: xx-large;
+    }
+
+    #map {
+        margin-left: 3vw;
+        margin-right: 17vw;
+        margin-bottom: 1em;
+        width: 80vw;
+        height: 700px;
+    }
+
+    #places {
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        height: fit-content;
+        width: 70vw;
+        margin-right: 5vw;
+
+    }
+
+    .distancediv {
+        width: auto;
+        height: 25px;
+        background-color: rgba(161, 244, 161, 0.7);
+        padding: 10px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+
+    #points {
+        margin-left: 3vw;
+        height: 25px;
+        width:100px;
+        padding: 15px;
+        border-radius: 7px;
+        background-color: rgba(230, 133, 6, 0.615);
+    }
+
+
+
+    #buttons {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 6em;
+        margin-left: 3vw;
+        padding: 10px;
+        width: 80%;
+        height: 50px;
+        border: 1px;
+        border-radius: 50px;
+    }
+    .gotobutton {
+        width: 150px;
+        padding: 10px;
+        height: 50px;
+        border-radius: 10px;
+        justify-content: space-between;
+
+    }
+
+
+    .placeimg {
+        margin-left: 3vw;
+        width: 70vw;
+    }
+
+    .placetitle {
+        width: 100%;
+        margin-top: 5vh;
+    }
+
+    .infotext {
+        margin-left: 10vw;
+        margin-right: 30vw;
+        display: flex;
+        width: 100%;
+        height: fit-content;
+    }
+
+    .backbutton {
+        margin-top: 25px;
+        margin-left: 30vw;
+        margin-bottom: 10vh;
+        padding: 10px;
+        width: 200px;
+        border-radius: 10px;
+    }
+}

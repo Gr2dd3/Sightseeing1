@@ -52,5 +52,14 @@
         "long": 17.052982,
         "image": "images/batcave.jpg",
         "info": "All info om Batmans gömställe är sekretessbelagt! Vi tror att koordinaterna är påhittade."
+    },
+    {
+        "id": 6,
+        "visited": "",
+        "title": "Kolmården",
+        "lat": 58.665168,
+        "long": 16.465482,
+        "image": "images/kolmardendjurpark.jpg",
+        "info": "Kolmårdens djurpark är en djurpark belägen 4 mil sydväst om Nyköping vid Bråvikens norra strand, omkring 100 meter över havet. Parken har en yta på 1,75 kvadratkilometer och är därmed Nordens största djurpark och en av de största i världen. Djurparken grundades av Ulf Svensson, som också var parkens direktör under många år. Kolmårdens djurpark öppnades för besökare den 27 maj 1965. Djurparken håller cirka 80 olika arter varav flera är utrotningshotade och ingår i både svenska och internationella bevarandeprogram. Kolmården ägs av ett privat aktiebolag. Med över 700 000 besökare varje sommar är djurparken en av Sveriges största semesterdestinationer med eget resorthotell, delfinshow, flera berg- och dalbanor och temaparken Bamses Värld."
     }
 ]

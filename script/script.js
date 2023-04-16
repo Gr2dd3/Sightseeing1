@@ -208,7 +208,7 @@ function drawPlace(id) {
 
     let title = document.createElement('h1');
     title.setAttribute("class", "placetitle");
-    title.innerHTML = foundPlace.title;
+    title.innerHTML = "Välkommen till " + foundPlace.title;
 
     let infoText = document.createElement('p');
     infoText.setAttribute("class", "infotext");

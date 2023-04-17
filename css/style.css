@@ -196,7 +196,7 @@
 
     .distancediv {
         width: auto;
-        height: 25px;
+        height: fit-content;
         background-color: rgba(161, 244, 161, 0.7);
         padding: 10px;
         border-radius: 10px;

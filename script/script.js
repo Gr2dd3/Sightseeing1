@@ -179,7 +179,7 @@ function checkDistanceFromTarget(id, distresult) {
 
     if (latitude > place.lat){ northsouth = "syd"; }
     else { northsouth = "nord"; }
-    showDistanceToTarget.innerHTML += " [Riktning: " + northsouth + eastwest + "]";
+    showDistanceToTarget.innerHTML += "<br> [Riktning: " + northsouth + eastwest + "]";
 }
 
 function drawPlace(id) {
